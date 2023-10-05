@@ -1,0 +1,32 @@
+[1mdiff --cc README.md[m
+[1mindex afe97b7,efcdbc1..0000000[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@@ -1,15 -1,10 +1,25 @@@[m
+[31m- # problemas-ft22-loops[m
+[32m+ # problemas-ft22-loops /Octubre 5, 2023[m
+  [m
+  1. Crea un programa que genere la tabla de multiplicar de un número ingresado por el usuario.[m
+[32m++<<<<<<< HEAD[m
+[32m +[m
+[32m +2. Escribe un bucle que calcule el factorial de un número dado.[m
+[32m +[m
+[32m +3. Crea un programa que solicite al usuario un número y luego muestre todos los números primos menores o iguales a ese número.[m
+[32m +[m
+[32m +4. Escribe un programa que calcule el promedio de una lista de números ingresados por el usuario.[m
+[32m +[m
+[32m +5. Haz un juego de adivinanza en el que el programa elija un número aleatorio y el usuario deba adivinarlo, dando pistas si el número es mayor o menor.[m
+[32m +[m
+[32m +6. Define una función que determine si una palabra es un palíndromo (se lee igual al revés).[m
+[32m +[m
+[31m- 7. Crea un programa que simule una calculador[m
+[32m++7. Crea un programa que simule una calculador[m
+[32m++=======[m
+[32m+ 2. Escribe un bucle que calcule el factorial de un número dado.[m
+[32m+ [m
+[32m+ 3. Crea un programa que solicite al usuario un número y luego muestre todos los números primos menores o iguales a ese número.[m
+[32m+ 4. Escribe un programa que calcule el promedio de una lista de números ingresados por el usuario.[m
+[32m+ 5. Haz un juego de adivinanza en el que el programa elija un número aleatorio y el usuario deba adivinarlo, dando pistas si el número es mayor o menor.[m
+[32m+ 6. Define una función que determine si una palabra es un palíndromo (se lee igual al revés).[m
+[32m+ 7. Crea un programa que simule una calculador[m
+[32m++>>>>>>> dc8dd077927968fcdb33edcd2ef26829115f1296[m

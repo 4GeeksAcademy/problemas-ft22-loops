@@ -1,5 +1,5 @@
 //Crea un programa que genere la tabla de multiplicar de un número ingresado por el usuario.
-// antes de ejecutar, instalar    npm install prompt-sync     en terminal
+// (antes de ejecutar, instalé  npm install prompt-sync  en terminal y descargó carpeta node_modules para tener prompt)
 const prompt = require('prompt-sync')();
 
 function tabla(num) {
